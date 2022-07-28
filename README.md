@@ -1,0 +1,1 @@
+This project is about how to build and start coding our own shell in C-programming by writing a simple UNIX command interpreter, carried out by erudite team of Azeez Olarewaju Lawal and Anthony Chukwuebuka
